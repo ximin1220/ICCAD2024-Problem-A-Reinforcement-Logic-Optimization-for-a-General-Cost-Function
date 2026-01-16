@@ -2,6 +2,7 @@
 
 **2024 CAD Contest - Logic Optimization**
 **Achievement:** 🏆 Honorable Mention (Domestic / 國內賽佳作)
+
 **Final Score:** 4074.506
 
 ## 📖 Overview
