@@ -68,7 +68,7 @@ Through analysis of the black-box estimator's behavior, we identified specific s
 
 ## 🛠 System Requirements
 
-* 
+
 **OS:** Linux System.
 
 
@@ -82,12 +82,6 @@ Through analysis of the black-box estimator's behavior, we identified specific s
 
 The program accepts arguments strictly following the contest specification.
 
-### Build
-
-```bash
-make
-
-```
 
 ### Execution
 
@@ -101,30 +95,30 @@ The executable takes the netlist, cell library, and cost function estimator as i
 
 ```
 
-* 
+
 **-netlist**: The input flattened Verilog netlist.
 
 
-* 
+
 **-library**: The cell library in JSON-like format.
 
 
-* 
+
 **-cost_function**: The black-box executable for cost estimation.
 
 
-* 
+
 **-output**: The path for the optimized output netlist.
 
 
 
 ### Limits
 
-* 
+
 **Time Limit:** 3 hours per case.
 
 
-* 
+
 **Parallelism:** Multi-threading is not allowed.
 
 
@@ -133,7 +127,7 @@ The executable takes the netlist, cell library, and cost function estimator as i
 
 * **Domestic Contest Result:** Honorable Mention (佳作).
 * **Performance:** Achieved significant optimization ratios (up to ~637%) on complex test cases.
-* 
+
 **Final Score:** 4074.506 (Calculated based on the summation of points from all cases).
 
 
