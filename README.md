@@ -67,15 +67,6 @@ Through analysis of the black-box estimator's behavior, we identified specific s
 
 
 
-## 🛠 System Requirements
-
-
-**OS:** Linux System.
-
-
-* **Dependencies:**
-* C++ Compiler (GCC/Clang)
-* [ABC System](https://github.com/berkeley-abc/abc) (Logic Synthesis and Verification Group, UC Berkeley)
 
 
 
